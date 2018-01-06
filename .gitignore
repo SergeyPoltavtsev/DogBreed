@@ -1,0 +1,5 @@
+dogImages/
+bottleneck_features/
+TestImages/
+.DS_Store
+__pycache__/
